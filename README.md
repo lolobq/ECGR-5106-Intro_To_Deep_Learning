@@ -5,4 +5,4 @@ Compilation of homeworks and projects from ECGR-5106 Intro to Deep Learning
 Multilayer Perceptrons for Classification and Regression using CIFAR-10 and a housing dataset
 
 ## Homework 2 Topics:
-Building an AlexNet and ResNet-18 for the CIFAR-10 dataset
+Building an AlexNet and ResNet-18 models for the CIFAR-10 dataset
