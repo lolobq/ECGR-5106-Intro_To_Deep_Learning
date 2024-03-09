@@ -6,3 +6,6 @@ Multilayer Perceptrons for Classification and Regression using CIFAR-10 and a ho
 
 ## Homework 2 Topics:
 Building an AlexNet and ResNet-18 models for the CIFAR-10 dataset
+
+## Homework 3 Topics:
+Language Modeling with an RNN, LSTM, and GRU
